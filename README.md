@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chernovchernov
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Linux, Docker, Ansible, Python
-- 💞️ I’m looking to collaborate on Yandex.Cloud, Sberbank
+- 💞️ I’m looking to collaborate on 50 Cent
 - 📫 How to reach me: t.me/chernovchernov
 
 <!---
